@@ -1,1 +1,3 @@
-# 8-1Journal-Portfoio
+Project 3 
+An inventory tracker console app written in C++ and Python.
+Reads in a file containing the name of each item sold in a day, with the item being listed each time it is sold. From that data it generates a list of distinct items sold and the quantity sold for each item. That inventory list is then written to a new file. A menu then gives options to display the inventory list, search the list for an item and display the quantity sold, or display a histogram showing the frequency of each item sold. I believe I overall did a great job on this project and think it went smoothly. I would like to think I added enough notes to this project to have anyone understand what is going on. This project has given me alot of good review and finalization on what I learned from this course. I did not really find any part of the code hard to do.
